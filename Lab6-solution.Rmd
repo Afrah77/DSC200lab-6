@@ -49,7 +49,7 @@ head(dennys)
     What does each row in the dataset represent?
     What are the variables?
     
-    
+      
 ```{r}
 dim(laquinta)
 head(laquinta)
