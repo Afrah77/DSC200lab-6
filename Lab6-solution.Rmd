@@ -37,7 +37,7 @@ states <- read_csv("data/states.csv")
 1.  What are the dimensions of the Denny's dataset?
     (Hint: Use inline R code and functions like `nrow` and `ncol` to compose your answer.) What does each row in the dataset represent?
     What are the variables?
-    
+    1643 6
 ```{r}
 dim(dennys)
 head(dennys)
@@ -47,7 +47,7 @@ head(dennys)
 
 2.  What are the dimensions of the La Quinta's dataset? 
     What does each row in the dataset represent?
-    What are the variables?
+    What are the variables? 909 6 
     
       
 ```{r}
